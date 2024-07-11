@@ -1,0 +1,16 @@
+D:\Code\Multiply\Multiply\bin\Debug\net5.0\Multiply.exe
+D:\Code\Multiply\Multiply\bin\Debug\net5.0\Multiply.deps.json
+D:\Code\Multiply\Multiply\bin\Debug\net5.0\Multiply.runtimeconfig.json
+D:\Code\Multiply\Multiply\bin\Debug\net5.0\Multiply.runtimeconfig.dev.json
+D:\Code\Multiply\Multiply\bin\Debug\net5.0\Multiply.dll
+D:\Code\Multiply\Multiply\bin\Debug\net5.0\ref\Multiply.dll
+D:\Code\Multiply\Multiply\bin\Debug\net5.0\Multiply.pdb
+D:\Code\Multiply\Multiply\obj\Debug\net5.0\Multiply.csproj.AssemblyReference.cache
+D:\Code\Multiply\Multiply\obj\Debug\net5.0\Multiply.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Multiply\Multiply\obj\Debug\net5.0\Multiply.AssemblyInfoInputs.cache
+D:\Code\Multiply\Multiply\obj\Debug\net5.0\Multiply.AssemblyInfo.cs
+D:\Code\Multiply\Multiply\obj\Debug\net5.0\Multiply.csproj.CoreCompileInputs.cache
+D:\Code\Multiply\Multiply\obj\Debug\net5.0\Multiply.dll
+D:\Code\Multiply\Multiply\obj\Debug\net5.0\ref\Multiply.dll
+D:\Code\Multiply\Multiply\obj\Debug\net5.0\Multiply.pdb
+D:\Code\Multiply\Multiply\obj\Debug\net5.0\Multiply.genruntimeconfig.cache
